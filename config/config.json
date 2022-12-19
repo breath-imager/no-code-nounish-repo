@@ -1,13 +1,1 @@
-{
-  "address": "0xdf9b7d26c8fc806b1ae6273684556761ff02d422",
-  "adminAddress": "",
-  "theme": "forest",
-  "logo": "https://pbs.twimg.com/profile_images/1587230850483191808/nOt4mjKu_400x400.jpg",
-  "chainId": "1",
-  "SITE_TITLE": "Public Assembly",
-  "APP_ID": "public-assembly",
-  "SITE_DESCRIPTION": "Only one degree of separation lies between everyone on the internet.",
-  "twitter": "pblcasmbly",
-  "discord": "pblcasmbly",
-  "WEBSITE_URL": "https://public---assembly.com"
-}
+{"address":"0x8983ec4b57dbebe8944af8d4f9d3adbafea5b9f1","adminAddress":"0xB2290dFEbfdA1da7733cFf86649B4a77104aAbb4","theme":"cyberpunk","twitter":"https://twitter.com","discord":"https://discord.com","logo":"https://uploads-ssl.webflow.com/6197b886eba53d0f109a168e/619821f289143ff6cd39a7fc_Frame%2030.png","chainId":"1"}
